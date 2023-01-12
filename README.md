@@ -1,3 +1,5 @@
+Disclaimer - This is a "fork" of the project on crates.io (which currently has no repo listed). I took the source from the cargo cache on my machine
+
 A Rust preprocessor for [mdBook](https://github.com/rust-lang/mdBook), replacing regular expression patterns with specified strings. Regex syntax is based on the [Regex](https://crates.io/crates/regex) Rust crate.
 
 ## Usage
